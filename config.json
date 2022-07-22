@@ -1,0 +1,9 @@
+{
+	"ip":"akdgaming.aternos.me",
+	"port":48512,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345",
+	"login-cmd":"/login 12345" 
+}
